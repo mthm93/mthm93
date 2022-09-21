@@ -1,6 +1,6 @@
 ## E aí 👋 Meu nome é Matheus Martinez Isboli.
 
-- 🌱 Atualmente estou estudando JavaScript...
+- 🌱 Atualmente estou estudando JavaScript, e sou Estagiário FullStack na ForLogic...
 
 <div align="justify">
   <a href="https://github.com/mthm93">
